@@ -16,12 +16,12 @@ p
 .italic 
 {
 
-    font-size: 30px;
+    font-size: 22px;
     font-style: italic;
 }
 .bold
 {   
-    color: rgb(28, 100, 10);
+    color: rgb(26, 240, 6);
     font-weight: bold;
 
 }
@@ -30,3 +30,4 @@ p
     font-style: italic;
 
 }
+
