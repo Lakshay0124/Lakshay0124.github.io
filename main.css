@@ -41,3 +41,7 @@ p
     color: rgb(0, 110, 255);
 }
 
+.button
+{
+    text-align: unset;
+}
