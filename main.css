@@ -1,6 +1,6 @@
 body
 {
-    background-color: #171717 ;
+    background-color: #080000 ;
 }
 h4
 {
@@ -29,5 +29,15 @@ p
 {
     font-style: italic;
 
+}
+.small
+{
+    font-size: small;
+    font-weight: lighter;
+}
+.contact
+{
+    font-size: 15px;
+    color: rgb(0, 110, 255);
 }
 
