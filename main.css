@@ -1,6 +1,6 @@
 body
 {
-    background-color: #080000 ;
+    background-color: black;
 }
 h4
 {
@@ -12,6 +12,7 @@ h4
 p
 {
     color: #ADEFD1FF;
+    text-align: center;
 }
 .italic 
 {
