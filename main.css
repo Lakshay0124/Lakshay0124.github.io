@@ -24,6 +24,7 @@ p
     color: rgb(26, 240, 6);
     font-weight: bold;
 
+
 }
 .bruh
 {
@@ -44,4 +45,27 @@ p
 .button
 {
     text-align: unset;
+}
+.linky
+{
+    color: lightgreen;
+    font-weight: bold;
+}
+.eye_img
+{
+    text-align: center;
+}
+.privacy
+{
+    color: #ADEFD1FF;
+    font-size: large;
+}
+fsf.html
+{
+    color: #ADEFD1FF;
+    font-size: large;
+}
+.gnu
+{
+    background-color:#080000 ;
 }
