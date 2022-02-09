@@ -22,7 +22,9 @@ p
 .bold
 {   
     color: rgb(26, 240, 6);
+    font-size: 12.4px;
     font-weight: bold;
+
 
 
 }
@@ -33,7 +35,7 @@ p
 }
 .small
 {
-    font-size: small;
+    font-size: medium;
     font-weight: lighter;
 }
 .contact
