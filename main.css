@@ -16,26 +16,18 @@ p
 }
 .italic 
 {
-
+    color: rgb(21, 180, 0);
     font-size: 22px;
-    font-style: italic;
+    font-style: bold;
 }
 .bold
 {   
-    color: rgb(26, 240, 6);
+    color: rgb(16, 196, 0);
     font-size: larger;
     font-weight: 9999999;
 
-
-    
-
-
 }
-.bruh
-{
-    font-style: italic;
 
-}
 .small
 {
     font-size: medium;
@@ -83,3 +75,4 @@ fsf.html
 
     font-size: larger;
 }
+
