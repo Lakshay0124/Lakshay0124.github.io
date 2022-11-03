@@ -3,6 +3,6 @@ I am lakshay, i like philosophy, Computers, books and nothing.
 I will type things here.
 
 /* you can access them by typing the file name after the website name like this -
-	lakshaymann.neocities.org/man.txt
+	lakshay0124.github.io/man.txt
 
 and read it. I will list every thing i write here with the file name and title
