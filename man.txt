@@ -5,4 +5,4 @@ I will type things here.
 /* you can access them by typing the file name after the website name like this -
 	lakshay0124.github.io/man.txt
 
-and read it. I will list every thing i write here with the file name and title
+and read it. I will list every thing i write here with the file name,which itself will be the title seperated by underscore instead of a space.
