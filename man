@@ -6,3 +6,4 @@ I will type things here.
 	lakshay0124.github.io/man
 
 and read it. I will list every thing i write here with the file name,which itself will be the title seperated by underscore instead of a space.
+*/
